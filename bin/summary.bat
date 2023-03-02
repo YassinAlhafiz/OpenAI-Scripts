@@ -17,7 +17,7 @@ cd /
 cd {INPUT DIRECTORY}
 
 @REM Run the command
-node .\lib\scripts\completion.js --t=60 --mode=chat %*
+node .\lib\scripts\summarization.js %*
 
 @REM Navigate back to original drive
 %currentDrive%:

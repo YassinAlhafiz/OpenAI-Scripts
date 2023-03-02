@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.0.3",
+    "gpt-3-encoder": "^1.1.4",
+    "https": "^1.0.0",
     "openai": "^3.2.1",
     "yargs": "^17.7.1"
   }
