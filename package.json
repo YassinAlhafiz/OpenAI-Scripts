@@ -15,6 +15,7 @@
     "gpt-3-encoder": "^1.1.4",
     "https": "^1.0.0",
     "openai": "^3.2.1",
+    "prompt-sync": "^4.2.0",
     "yargs": "^17.7.1"
   }
 }
